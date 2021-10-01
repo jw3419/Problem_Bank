@@ -1,0 +1,1 @@
+print('2134'[int(input()) > 0 ::2][int(input()) < 0])
